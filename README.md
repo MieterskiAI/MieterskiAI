@@ -2,6 +2,7 @@
 **Remote (PL) / Hybrid: Wrocław**
 
 I design **decision-routing workflows** for operations: clear intake, rules, escalation paths, and **human approval gates** where risk/uncertainty is high.
+Open to internship/junior roles in Business Automation / Power Platform (Remote PL / Hybrid Wrocław).
 
 ## What I do
 - Turn messy ops problems into **structured workflows** (process map → requirements → rules/gates)
@@ -42,3 +43,4 @@ Open to **internship / junior** roles in **Business Automation / Power Platform*
 - GitHub: https://github.com/MieterskiAI
 - Email: maciej_klimek@icloud.com
 - LinkedIn: (www.linkedin.com/in/maciej-klimek-44b986304)
+- PL: Szukam stażu/junior roli w automatyzacji procesów (Power Platform).
