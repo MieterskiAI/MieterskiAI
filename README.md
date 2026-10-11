@@ -1,177 +1,63 @@
-# Klimek Automation
+# Maciej Klimek | Klimek Automation
 
-## Business Process Automation | Microsoft 365 | Power Automate | AI Agents
+**Aplikacje i automatyzacje Microsoft 365 | Power Apps | Power Automate | SharePoint | Copilot Studio**
 
-I build practical automation systems for small businesses using **Microsoft 365, Power Automate, Copilot Studio and Power Platform**.
+Tworzę aplikacje i automatyzacje dla firm korzystających z Microsoft 365. Pomagam uporządkować informacje, ograniczyć przepisywanie danych i pokazać, na jakim etapie jest praca.
 
-My focus is simple: turn messy, manual work into clear processes, automated workflows and systems that help business owners save time, reduce errors and keep better control over daily operations.
+Współpracuję bezpośrednio z firmami oraz wykonuję wydzielone zadania dla partnerów wdrożeniowych.
 
-Website: https://klimekautomation.pl
-Email: [kontakt@klimekautomation.pl](mailto:kontakt@klimekautomation.pl)
-LinkedIn: https://www.linkedin.com/in/maciej-klimek-44b986304
+[Strona i portfolio](https://klimekautomation.pl) · [LinkedIn](https://www.linkedin.com/in/maciej-klimek-automation) · [kontakt@klimekautomation.pl](mailto:kontakt@klimekautomation.pl)
 
----
+## W czym pomagam
 
-## What I build
+- Aplikacje Power Apps: formularze, rejestry, statusy i panele obsługi.
+- Power Automate: przekazywanie danych, przypomnienia, akceptacje i obsługa błędów.
+- SharePoint: uporządkowane dane i dokumenty wspierające proces.
+- Rozbudowa, diagnoza i naprawa istniejących aplikacji oraz przepływów w uzgodnionym zakresie.
+- Agenci Copilot Studio, gdy mają konkretne zadanie w procesie i jasno określone granice działania.
 
-* Lead intake and follow-up workflows
-* Forms connected with automated notifications
-* AI agents for websites and customer questions
-* Simple internal systems for tracking requests, leads and process status
-* Power Automate flows for repetitive office tasks
-* Microsoft 365 based workflows using Outlook, Excel, Forms, SharePoint and Teams
-* Process maps, business rules, approval logic and basic reporting
+## Aktualne portfolio
 
----
+Własne projekty demonstracyjne w środowisku Klimek Automation:
 
-## Current direction
+| Projekt | Co pokazuje |
+| --- | --- |
+| Purchase Request System | Formularz Power Apps, rejestr SharePoint i proces akceptacji wniosków zakupowych. |
+| Request Intake & Follow-up System | Obsługę zgłoszeń, właścicieli, statusów, przypomnień i dalszego kontaktu. |
+| Bilingual AI Agent | Asystenta Copilot Studio PL/EN, który pomaga poznać ofertę i kieruje do formularza kontaktowego. |
 
-Klimek Automation is focused on helping small businesses move from manual work and scattered information into structured workflows.
+Materiały i pokazy są na [stronie portfolio](https://klimekautomation.pl/#rozwiazania). Konfigurację, dostępność funkcji i licencje sprawdzamy dla konkretnego wdrożenia.
 
-Typical problems I work with:
+## Jak wygląda współpraca
 
-* leads getting lost in emails or forms
-* no clear status of customer requests
-* manual copying of data between tools
-* repeated questions from clients
-* delayed follow-ups
-* lack of simple reporting for business owners
-* too many tasks handled from memory instead of a system
+Opisz, co robicie ręcznie albo co nie działa. Nie musisz mieć gotowej specyfikacji technicznej.
 
----
+Przed rozpoczęciem ustalamy zakres, cenę, termin, płatność, kryteria odbioru, dostępy i wymagania licencyjne. Pierwszą pracą może być ograniczona diagnoza problemu albo dobrze rozpoznana poprawka. Diagnoza, konfiguracja, budowa i naprawa są płatne.
 
-## Featured work
+Rozwiązanie przekazuję z dokumentacją i omówieniem obsługi. Zakres wsparcia i dalszych zmian ustalamy przed pracą.
 
-### 1. Lead Intake Automation System
+## Microsoft Applied Skills
 
-A practical automation for collecting and processing leads from a form.
+- Create and manage automated processes by using Power Automate
+- Create and manage canvas apps with Power Apps
+- Build an agent in Microsoft Copilot Studio
+- Enhance agents with autonomous capabilities
 
-**Process:**
+## Wcześniejsze projekty w tym koncie
 
-Form submission → Power Automate → lead record → conditional logic → email notification → confirmation message
+Repozytoria poniżej zachowuję jako wcześniejsze studia przypadku i materiały projektowe. Aktualne portfolio Microsoft 365 jest opisane powyżej.
 
-**What it shows:**
+- [Email Triage Decision-Routing Workflow](https://github.com/MieterskiAI/ai-mailops-agent): model obsługi poczty z decyzją człowieka i propozycjami odpowiedzi.
+- [Complaint Triage & Component Identification](https://github.com/MieterskiAI/ai-complaint-component-identification-system): przyjęcie reklamacji, reguły kierowania i przegląd człowieka.
+- [AI Decision Support System](https://github.com/MieterskiAI/ai-decision-support-system): dokumentacja procesu wspomagania decyzji.
+- [Schroniska PL](https://github.com/MieterskiAI/SchroniskaPl-portfolio): archiwalny projekt danych i aplikacji webowej.
 
-* lead capture
-* structured data collection
-* conditional logic
-* automated email communication
-* simple business process design
-* Microsoft Forms, Excel and Power Automate integration
+Mapowania Power Platform w starszych studiach przypadku opisują koncepcję implementacji. Zakres wykonania podany jest w danym repozytorium.
 
-This project represents a simple MVP version of a lead management workflow for a small business.
+## English
 
----
+I build Power Apps applications and Power Automate workflows for organizations using Microsoft 365, with SharePoint and Copilot Studio where the process calls for them. I work directly with businesses and on clearly scoped tasks for implementation partners.
 
-### 2. AI Website Assistant — Klimek Automation
+My current portfolio includes purchase approvals, request intake and follow-up, and a bilingual Copilot Studio assistant. Before work starts, we agree on scope, price, timeline, acceptance criteria, access, licensing and support. The projects shown are my own demonstrations.
 
-An AI assistant embedded on the Klimek Automation website.
-
-The assistant helps visitors understand automation services, answer common questions and guide users toward submitting a process for analysis.
-
-**What it shows:**
-
-* Copilot Studio agent setup
-* website integration
-* custom topics
-* business-focused conversation design
-* connection between website, agent, form and automation
-
-Live website: https://klimekautomation.pl
-
----
-
-### 3. Next project: Lead, Offer and Follow-up Control System
-
-Planned larger case study based on a more professional process architecture.
-
-**Planned stack:**
-
-AI Agent / Form → Microsoft Lists or SharePoint → Power Automate → Power Apps → Power BI
-
-**Business goal:**
-
-Help a small business control incoming leads, offers, follow-ups and response times in one simple system.
-
-**Planned features:**
-
-* lead source tracking
-* status management
-* reminders for unanswered leads
-* follow-up automation
-* simple internal panel
-* owner dashboard
-* reporting on response time and lead conversion
-
----
-
-## Older prototypes
-
-These projects were created earlier as process and workflow design prototypes. They are not the current business offer, but they show the thinking behind structured intake, routing, review and human-in-the-loop logic.
-
-### AI Complaint Component Identification System
-
-Repo: https://github.com/MieterskiAI/ai-complaint-component-identification-system
-
-Focus:
-
-* complaint intake
-* decision routing
-* human review for edge cases
-* case history
-* process logic
-
-### Email Triage Decision-Routing Workflow
-
-Repo: https://github.com/MieterskiAI/ai-mailops-agent
-
-Focus:
-
-* inbox triage
-* request classification
-* escalation queue
-* no automatic sending
-* decision support and auditability
-
----
-
-## Skills and tools
-
-**Microsoft / Power Platform**
-
-* Power Automate
-* Copilot Studio
-* Microsoft Forms
-* Excel
-* Outlook
-* SharePoint / Microsoft Lists
-* Power Apps basics
-* Power BI basics
-
-**Process and business analysis**
-
-* process mapping
-* requirements analysis
-* workflow design
-* business rules
-* approval logic
-* SOP thinking
-* KPI and status tracking
-* human-in-the-loop workflows
-
-**Current learning focus**
-
-* Microsoft Power Platform
-* Power Automate
-* Copilot Studio
-* Power Apps
-* Business English
-* practical AI-assisted process automation
-
----
-
-## Contact
-
-Website: https://klimekautomation.pl
-Email: [kontakt@klimekautomation.pl](mailto:kontakt@klimekautomation.pl)
-LinkedIn: https://www.linkedin.com/in/maciej-klimek-44b986304
+[Website and portfolio](https://klimekautomation.pl/en/) · [LinkedIn](https://www.linkedin.com/in/maciej-klimek-automation) · [Email](mailto:kontakt@klimekautomation.pl)
